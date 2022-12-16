@@ -1,0 +1,15 @@
+Steps to follow before first use:
+
+1. In the setup files open the creds.txt file.
+2. just erase all and put the username in first line and password in second.
+   eg.  9876543210
+	1234   
+3. Save the file as it is.
+4. Copy the folder wherever you want just add shortcut of 
+   dyp-autologin application file on the desktop.
+
+
+Steps to use everytime:
+
+1. Just connect to college router and click on shortcut file. 
+2. Then you're ready to enjoy the internet. 😊
